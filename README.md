@@ -45,10 +45,10 @@ Installation
 Clone the repository:
 
 Here some screenshot of that project
-https://github.com/nehal7472/BookStore-Using-MERN/blob/554422db1b8f5fcc7e6a8a0a1af41e43e3d64325/laptop_view.png
-https://github.com/nehal7472/BookStore-Using-MERN/blob/554422db1b8f5fcc7e6a8a0a1af41e43e3d64325/Mobile_view.png
-https://github.com/nehal7472/BookStore-Using-MERN/blob/554422db1b8f5fcc7e6a8a0a1af41e43e3d64325/products.png
-https://github.com/nehal7472/BookStore-Using-MERN/blob/554422db1b8f5fcc7e6a8a0a1af41e43e3d64325/Checkout.png
+![image alt](https://github.com/nehal7472/BookStore-Using-MERN/blob/554422db1b8f5fcc7e6a8a0a1af41e43e3d64325/laptop_view.png)
+![image alt](https://github.com/nehal7472/BookStore-Using-MERN/blob/554422db1b8f5fcc7e6a8a0a1af41e43e3d64325/Mobile_view.png)
+![image alt](https://github.com/nehal7472/BookStore-Using-MERN/blob/554422db1b8f5fcc7e6a8a0a1af41e43e3d64325/products.png)
+![image alt](https://github.com/nehal7472/BookStore-Using-MERN/blob/554422db1b8f5fcc7e6a8a0a1af41e43e3d64325/Checkout.png)
 
 bash
 Copy code
