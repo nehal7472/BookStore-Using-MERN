@@ -12,7 +12,7 @@ const connectDb = require("./utils/db");
 const errorMiddleware = require("./middlewares/error-middleware");
 const { object } = require("zod");
 const corsOptions = {
-  origin: "http://localhost:5173",
+  origin: "https://bookstore-api-opal.vercel.app/",
   methods: "GET, POST, PUT, DELETE, PATCH, HEAD",
   credentials: true,
 };
