@@ -22,7 +22,7 @@ Stripe / PayPal: Integrated payment gateway for handling transactions.
 Here's a sample README.md for your MERN e-commerce project on GitHub. You can customize it based on your project specifics:
 
 MERN E-commerce Project
-A fully functional E-commerce application built using the MERN stack (MongoDB, Express, React, Node.js). This project includes user authentication, product management, and a shopping cart feature.
+A fully functional E-commerce application built using the MERN stack (MongoDB, Express, React, Node.js). This project includes user authentication, product management, and a shopping cart feature..
 
 Features
 User Authentication: Sign up, login, password reset functionality.
